@@ -8,7 +8,7 @@ function App() {
   const [Wicket,setWicket] = useState(2)
 
   // const [Over,setOver] = useState(Math.floor(50/6))
-  const [Over,setOver] = useState(50)
+  const [Over,setOver] = useState(8.2)
 
   const [ball,setBall] = useState(0)
 
